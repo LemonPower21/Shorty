@@ -1,4 +1,4 @@
-# **Text-to-Video Generator**
+# **Shorty**
 
 This Python script converts text from a file into a video with speech, subtitles, and a random background video. It uses **Google Text-to-Speech (gTTS)** to generate speech, **FFmpeg** for video and subtitle generation, and a random background video from a folder.
 
