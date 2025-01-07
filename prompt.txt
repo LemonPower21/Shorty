@@ -1,0 +1,1 @@
+generate 50 text about interesting story of 45 second speech. Each  story will be separated by blank line delete TITLES DLETE SEPARATION LINES AND DELETE NUMBERS PLEASE. Do not use punctuation except for comma and dot
