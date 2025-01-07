@@ -1,9 +1,3 @@
-It seems like you're working on a Python script that converts text into a video with speech (using `gTTS` for text-to-speech) and adds subtitles, background music, and looping background video (via `ffmpeg`). The script processes a list of text segments from a file (`texts.txt`), creates video files with speech and subtitles, and adds a random background from a folder.
-
-Here's a **README** file that explains how to set up and use the script.
-
----
-
 # **Text-to-Video Generator**
 
 This Python script converts text from a file into a video with speech, subtitles, and a random background video. It uses **Google Text-to-Speech (gTTS)** to generate speech, **FFmpeg** for video and subtitle generation, and a random background video from a folder.
@@ -130,6 +124,3 @@ After the script runs, you'll see video files like `output_video_0.mp4`, `output
 
 This project is licensed under the MIT License.
 
----
-
-Let me know if you'd like further modifications or additional features!
